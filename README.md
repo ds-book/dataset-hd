@@ -1,8 +1,6 @@
 # Информация о наборе данных
-
-## Авторы датасета
-Izabela Rojek, Mirosław Kozielski, Janusz Dorożyński, Dariusz Mikołajewski
-[doi.org/10.3390/app12199596](https://doi.org/10.3390/app12199596)
+## Ссылка для скачивания
+https://github.com/ds-book/dataset-hd/blob/main/heart.csv
 
 ## Описание датасета
 В файле **heart.csv** находится таблица с данными для прогноза риска развития острого коронарного синдрома. 
@@ -22,3 +20,7 @@ Izabela Rojek, Mirosław Kozielski, Janusz Dorożyński, Dariusz Mikołajewski
 - депрессия сегмента ST (*oldpeak*)
 - наклон пика сегмента ST, количество крупных окрашенных сосудов (*ca*)
 - результаты стресс-теста с таллием (*thal*)
+
+## Авторы датасета
+Izabela Rojek, Mirosław Kozielski, Janusz Dorożyński, Dariusz Mikołajewski
+[doi.org/10.3390/app12199596](https://doi.org/10.3390/app12199596)
